@@ -39,3 +39,4 @@
 | [DiDi](https://www.didiglobal.com) | @Run-Lin | Evaluation | Data Infrastructure |
 | [DeepCure](https://www.deepcure.ai) | @mschroering | Production | Spark / ML |
 | [C2FO](https://www.c2fo.com/) | @vanhoale | Production | Data Platform / Data Infrastructure |
+| [QuantumBlack](http://quantumblack.com/) | @debugger24 | Production | Machine Learning Platform |
